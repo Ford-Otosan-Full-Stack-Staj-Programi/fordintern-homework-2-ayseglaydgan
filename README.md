@@ -5,7 +5,7 @@
 
 ## Data Tables 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![My Image](images/my-image.png)
 
 
 ## API Reference for Account
